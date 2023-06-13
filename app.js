@@ -53,6 +53,6 @@ app.post("/work", function(req, res){
 
 });
 
-app.listen(https://A-L-A.github.io/toDo, function(req, res){
+app.listen(https://a-l-a.github.io, function(req, res){
     console.log("Server is up and running");
 });
