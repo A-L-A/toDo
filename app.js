@@ -53,6 +53,6 @@ app.post("/work", function(req, res){
 
 });
 
-app.listen(3000, function(req, res){
-    console.log("Server is up and running on port 3000");
+app.listen(https://A-L-A.github.io/toDo, function(req, res){
+    console.log("Server is up and running");
 });
